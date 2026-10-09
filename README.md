@@ -15,4 +15,9 @@ This is a .NET based C# Windows Forms desktop application developed for learning
 - Visual Studio
 - SQL Server Management Studio 22
 
+## Contributors
+- **Farhan Sijan** - [@Farhan-Sijan](https://github.com/Farhan-Sijan)
+- **Anisha** - [@ksfanisha24](https://github.com/ksfanisha24)
+- **Jabonnasa Mim** - [@jabonnasa-mim](https://github.com/jabonnasa-mim)
+
 
